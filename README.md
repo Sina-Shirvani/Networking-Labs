@@ -1,5 +1,12 @@
 # 🌐 Sina (Ahmad) Shirvani — Networking Labs
 
+## Packet Tracer Lab Collection
+
+[Browse the organized lab portfolio](./packet-tracer/README.md): 12 supplied simulations across static routing, OSPF, DHCP/DNS, HTTP with NAT/PAT, first-hop redundancy, LACP/STP, port security, BPDU Guard, DHCP snooping, and Dynamic ARP Inspection.
+
+Each lab includes a project README. Three screenshots provide captured evidence; the remaining verification checklists are pending execution.
+
+
 Hands-on Cisco networking portfolio focused on **enterprise routing, switching, network security, infrastructure services, and troubleshooting**.
 
 I use this repository to document practical labs while strengthening my Network Engineering skills and preparing for **CCNA and CCNP Enterprise ENCOR / ENARSI** topics.
